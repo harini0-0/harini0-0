@@ -19,6 +19,12 @@
 
 <br>
 
+- 🔭 I’m currently working on Flutter Projects
+- 👯 I’m looking to collaborate on App Dev Projects
+- 💬 Ask me about Flutter, App Development and Tech
+- 📫 How to reach me: harinipri2001@gmail.com
+
+
 <!--
 **harini0-0/harini0-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
