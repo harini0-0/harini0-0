@@ -1,4 +1,9 @@
-### Hi there 👋, I'm Harini 
+<!-- ### Hi there 👋, I'm Harini  -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There!+👋;This+is+Harini+Thirunavukkarasan....;&center=true&size=30">
+  </a>
+</h1>
 
 <img align="right" alt="GIF" height="400px" width="420px" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" />
 
