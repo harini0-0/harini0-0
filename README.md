@@ -25,8 +25,7 @@
 - 📫 How to reach me: harinipri2001@gmail.com
 
 <br>
-<img src="https://gpvc.arturio.dev/harini0-0" style="float:left, margin-right:10px"/>
-<img src="https://img.shields.io/github/followers/harini0-0?label=Follow" style=" float:left, margin-right:10px" />
+<img src="https://gpvc.arturio.dev/harini0-0" style="float:left, margin-right:10px"/> <img src="https://img.shields.io/github/followers/harini0-0?label=Follow" style=" float:left, margin-right:10px" />
 <br><br>
 
 <h2 align="center">⚡ Stats ⚡</h2>
