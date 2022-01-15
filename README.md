@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋, I'm Harini  -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img width="800" src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There!+👋;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" width="30px"> Harini+Thirunavukkarasan+here....;&center=true&size=20">
+    <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" width="30px"><img width="800" src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There!+👋; Harini+Thirunavukkarasan+here....;&center=true&size=20">
   </a>
 </h1>
 
