@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Harini 
 
-<img align="right" alt="GIF" src="https://docs.flutter.dev/assets/images/clock/particle.gif" />
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" />
 <!--
 **harini0-0/harini0-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
