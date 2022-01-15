@@ -54,7 +54,7 @@
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> 
 <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> 
 <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
-![Custom badge](https://img.shields.io/endpoint?label=Dart&logo=Dart&style=plastic&url=https%3A%2F%2Fdart.dev)
+<img src="https://img.shields.io/endpoint?label=Dart&logo=Dart&style=plastic&url=https%3A%2F%2Fdart.dev">
 
 
 <!--
