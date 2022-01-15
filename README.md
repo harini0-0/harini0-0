@@ -59,6 +59,7 @@
 <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 <img src="https://img.shields.io/badge/-Dart-F89820?style=flat&logo=dart&logoColor=white">
 <img src="https://img.shields.io/badge/-Flutter-white?style=flat&logo=flutter&logoColor=blue">
+<img src="https://img.shields.io/badge/-AndroidStudio-green?style=flat&logo=androidstudio&logoColor=black">
 
 <!--
 **harini0-0/harini0-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
