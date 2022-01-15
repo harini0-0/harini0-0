@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋, I'm Harini  -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img width="800" src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There!+👋;Harini+Thirunavukkarasan+here....;&center=true&size=20">
+    <img width="800" src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There!+👋;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" width="30px"> Harini+Thirunavukkarasan+here....;&center=true&size=20">
   </a>
 </h1>
 
@@ -10,7 +10,7 @@
 <p>
   <em>
     I am a 3rd Year undergraduate from <a href="https://www.nitk.ac.in/"> <b>National Institute of Technology, Surathkal</b></a>. <br>
-    <b>A friendly Neighbourhood Developer</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" width="30px"> and a <b>Learning    Enthusiast,</b>&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
+    <b>A friendly Neighbourhood Developer</b> and a <b>Learning    Enthusiast,</b>&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
     with the idea of <b>improving</b> herself and wants a <b>platform</b> to 
     <b>grow</b> and <b>excel.</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20px"> <br>
     I Love <b>App Development</b>, xD. <br>
