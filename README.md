@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋, I'm Harini  -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There!+👋;Harini+Thirunavukkarasan+here....;&center=true&size=25">
+    <img width="500" src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There!+👋;Harini+Thirunavukkarasan+here....;&center=true&size=25">
   </a>
 </h1>
 
