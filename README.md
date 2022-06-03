@@ -14,7 +14,7 @@
     <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Designer.gif" width="36px" height="36px">
     who is <b>obsessed</b>
     with the idea of <b>improving</b> herself and wants a <b>platform</b> to 
-    <b>grow</b> and <b>excel.</b> <br>
+    <b>grow</b> and <b>excel.</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20px" height="20px"> <br>
     I Love <b>App Development</b>, xD. <br>
   </em>  
 </p>
