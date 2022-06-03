@@ -11,9 +11,9 @@
   <em>
     I am a 3rd Year undergraduate from <a href="https://www.nitk.ac.in/"> <b>National Institute of Technology, Surathkal</b></a>. <br>
     <b>A friendly Neighbourhood Developer</b> and a <b>Learning    Enthusiast,</b>&nbsp;
-    <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Designer.gif" width="6px">  who is <b>obsessed</b>
+    who is <b>obsessed</b>
     with the idea of <b>improving</b> herself and wants a <b>platform</b> to 
-    <b>grow</b> and <b>excel.</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="1px"> <br>
+    <b>grow</b> and <b>excel.</b> <br>
     I Love <b>App Development</b>, xD. <br>
   </em>  
 </p>
