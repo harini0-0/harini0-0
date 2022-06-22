@@ -9,21 +9,21 @@
 
 <p>
   <em>
-    I am a 3rd Year undergraduate from <a href="https://www.nitk.ac.in/"> <b>National Institute of Technology, Surathkal</b></a>. <br>
+    I am a Final Year undergraduate from <a href="https://www.nitk.ac.in/"> <b>National Institute of Technology, Surathkal</b></a>. <br>
     <b>A friendly Neighbourhood Developer</b> and a <b>Learning    Enthusiast,</b>&nbsp; 
     <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Designer.gif" width="36px" height="36px">
     who is <b>obsessed</b>
     with the idea of <b>improving</b> herself and wants a <b>platform</b> to 
     <b>grow</b> and <b>excel.</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20px" height="20px"> <br>
-    I Love <b>App Development</b>, xD. <br>
+    I Love <b>Application Development</b>, xD. <br>
   </em>  
 </p>
 
 <br>
 
 - 🔭 I’m currently working on Flutter Projects
-- 👯 I’m looking to collaborate on App Dev Projects
-- 💬 Ask me about Flutter, App Development and Tech
+- 👯 I’m looking to collaborate on App Dev and Web Dev Projects
+- 💬 Ask me about Flutter, App Development, ReactJs and Tech
 - 📫 How to reach me: harinipri2001@gmail.com
 
 <br>
@@ -66,6 +66,7 @@
 <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> 
 <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 <img src="https://img.shields.io/badge/-Hive-yellow?style=flat&logo=hive&logoColor=white">
+<img src="https://img.shields.io/badge/-React-yellow?style=flat&logo=react&logoColor=white">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
