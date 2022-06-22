@@ -67,7 +67,7 @@
 <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 <img src="https://img.shields.io/badge/-Hive-yellow?style=flat&logo=hive&logoColor=white">
 <img src="https://img.shields.io/badge/-React-white?style=flat&logo=react&logoColor=blue">
-<img src="https://img.shields.io/badge/-Mongodb-white?style=flat&logo=mongodb&logoColor=blue">
+<img src="https://img.shields.io/badge/-Mongodb-black?style=flat&logo=mongodb&logoColor=green">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
