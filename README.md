@@ -9,25 +9,18 @@
 
 <p>
   <em>
-    I am a Final Year undergraduate from <a href="https://www.nitk.ac.in/"> <b>National Institute of Technology, Surathkal</b></a>. <br>
-    <b>A friendly Neighbourhood Developer</b> and a <b>Learning    Enthusiast,</b>&nbsp; 
-    <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Designer.gif" width="36px" height="36px">
-    who is <b>obsessed</b>
-    with the idea of <b>improving</b> herself and wants a <b>platform</b> to 
-    <b>grow</b> and <b>excel.</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20px" height="20px"> <br>
-    I Love <b>Application Development</b>, xD. <br>
+    I am a BTech Graduate from <a href="https://www.nitk.ac.in/"> <b>National Institute of Technology, Surathkal</b></a>. <br>
+    <b>Working in WellsFargo, Hyderabad </b> as a <b>FullStack Developer</b>&nbsp; who is <b>obsessed</b> with the idea of <b>innovation, ideation & improvising.</b></b> 
+    <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Designer.gif" width="36px" height="36px"> <br>
   </em>  
 </p>
 
 <br>
 
-- 🔭 I’m currently working on Flutter Projects
-- 👯 I’m looking to collaborate on App Dev and Web Dev Projects
+- 🔭 I’m currently working on Flutter Projects in mobile-app development & React-SpringBoot Projects in web development
+- 👯 Looking forward to collaborate on App Dev and Web Dev Projects
 - 💬 Ask me about Flutter, App Development, ReactJs and Tech
-- 📫 How to reach me: harinipri2001@gmail.com
 
-<br>
-<img src="https://gpvc.arturio.dev/harini0-0" style="float:left, margin-right:10px"/> <img src="https://img.shields.io/github/followers/harini0-0?label=Follow" style=" float:left, margin-right:10px" />
 <br><br>
 
 <h2> Stats </h2>
