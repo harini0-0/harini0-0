@@ -9,15 +9,15 @@
 
 <p>
   <em>
-    I am a BTech Graduate from <a href="https://www.nitk.ac.in/"> <b>National Institute of Technology, Surathkal</b></a>. <br>
-    <b>Working in WellsFargo, Hyderabad </b> as a <b>FullStack Developer</b>&nbsp; who is <b>obsessed</b> with the idea of <b>innovation, ideation & improvising.</b></b> 
+    I am a MS Graduate from <a href="https://www.northeastern.edu/"> <b>Northeastern University, Boston MA, USA</b></a>. <br>
+    <b>Worked in WellsFargo, Hyderabad </b> as a <b>Senior Software Engineer</b>&nbsp; with experience building backend systems and internal tools at Wells Fargo. I enjoy working on problems that require careful thinking about correctness, reliability, and system design. My background in data structures, databases, and distributed systems helps me build applications that are both practical and well-structured. 
     <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Designer.gif" width="36px" height="36px"> <br>
   </em>  
 </p>
 
 <br>
 
-- 🔭 I’m currently working on Flutter Projects in mobile-app development & React-SpringBoot Projects in web development
+- 🔭 I am currently expanding my expertise in machine learning and LLM-powered systems to build intelligent, user-focused products.
 - 👯 Looking forward to collaborate on App Dev and Web Dev Projects
 - 💬 Ask me about Flutter, App Development, ReactJs and Tech
 
