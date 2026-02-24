@@ -9,8 +9,12 @@
 
 <p>
   <em>
-    I am a MS Graduate student in Computer Science from <a href="https://www.northeastern.edu/"> <b>Northeastern University, Boston MA, USA</b> </a>. <br>
-    <b>Worked in WellsFargo, Hyderabad </b> as a <b>Senior Software Engineer</b>&nbsp; with experience building backend systems and internal tools at Wells Fargo. I enjoy working on problems that require careful thinking about correctness, reliability, and system design. My background in data structures, databases, and distributed systems helps me build applications that are both practical and well-structured. 
+    
+  I am a MS Graduate student in Computer Science from <a href="https://www.northeastern.edu/"><b>Northeastern University, Boston MA, USA</b> </a>. 
+  
+  <br>
+    
+  <b>Worked in WellsFargo, Hyderabad </b> as a <b>Senior Software Engineer</b>&nbsp; with experience building backend systems and internal tools at Wells Fargo. I enjoy working on problems that require careful thinking about correctness, reliability, and system design. My background in data structures, databases, and distributed systems helps me build applications that are both practical and well-structured. 
     <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Designer.gif" width="36px" height="36px"> <br>
   </em>  
 </p>
